@@ -5,7 +5,7 @@
 - [device-detection-java](https://github.com/51Degrees/device-detection-java)
 - [device-detection-node](https://github.com/51Degrees/device-detection-node)
 - [device-detection-python](https://github.com/51Degrees/device-detection-python)
-- [device-detection-php](https://github.com/51Degrees/device-detection-php)
+- [device-detection-php](https://github.com/51Degrees/device-detection-php) and [device-detection-php-onpremise](https://github.com/51Degrees/device-detection-php-onpremise)
 
 ![51Degrees](https://51degrees.com/DesktopModules/FiftyOne/Distributor/Logo.ashx?utm_source=github&utm_medium=repository&utm_content=home&utm_campaign=c-open-source "THE Fastest and Most Accurate Device Detection") **Device Detection in C / C++** includes PHP, Python, Perl, .NET and Node.js
 

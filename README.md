@@ -1,3 +1,12 @@
+**NOTE: This repository contains (unsupported) legacy v.3 implementations. Find the currently supported v.4 implementations in the following repositories:** 
+- [device-detection-cxx](https://github.com/51Degrees/device-detection-cxx)
+- [device-detection-nginx](https://github.com/51Degrees/device-detection-nginx)
+- [device-detection-dotnet](https://github.com/51Degrees/device-detection-dotnet)
+- [device-detection-java](https://github.com/51Degrees/device-detection-java)
+- [device-detection-node](https://github.com/51Degrees/device-detection-node)
+- [device-detection-python](https://github.com/51Degrees/device-detection-python)
+- [device-detection-php](https://github.com/51Degrees/device-detection-php)
+
 ![51Degrees](https://51degrees.com/DesktopModules/FiftyOne/Distributor/Logo.ashx?utm_source=github&utm_medium=repository&utm_content=home&utm_campaign=c-open-source "THE Fastest and Most Accurate Device Detection") **Device Detection in C / C++** includes PHP, Python, Perl, .NET and Node.js
 
 [Recent Changes](#recent-changes "Review recent major changes") | [Supported Databases](https://51degrees.com/compare-data-options?utm_source=github&utm_medium=repository&utm_content=home-menu&utm_campaign=c-open-source "Different device databases which can be used with 51Degrees device detection") | [Developer Documention](https://51degrees.com/support/documentation?utm_source=github&utm_medium=repository&utm_content=home-menu&utm_campaign=c-open-source "Full getting started guide and advanced developer documentation") | [Available Properties](https://51degrees.com/resources/property-dictionary?utm_source=github&utm_medium=repository&utm_content=home-menu&utm_campaign=c-open-source "View all available properties and values")

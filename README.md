@@ -1,5 +1,5 @@
 **NOTE: This repository contains (unsupported) legacy v.3 implementations. Find the currently supported v.4 implementations in the following repositories:** 
-- [device-detection-cxx](https://github.com/51Degrees/device-detection-cxx)
+- [51degrees-cxx](https://github.com/51Degrees/51degrees-cxx)
 - [device-detection-nginx](https://github.com/51Degrees/device-detection-nginx)
 - [device-detection-dotnet](https://github.com/51Degrees/device-detection-dotnet)
 - [device-detection-java](https://github.com/51Degrees/device-detection-java)

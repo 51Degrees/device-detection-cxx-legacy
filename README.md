@@ -2,7 +2,7 @@
 - [51degrees-cxx](https://github.com/51Degrees/51degrees-cxx)
 - [device-detection-nginx](https://github.com/51Degrees/device-detection-nginx)
 - [device-detection-dotnet](https://github.com/51Degrees/device-detection-dotnet)
-- [device-detection-java](https://github.com/51Degrees/device-detection-java)
+- [51degrees-java](https://github.com/51Degrees/51degrees-java)
 - [device-detection-node](https://github.com/51Degrees/device-detection-node)
 - [device-detection-python](https://github.com/51Degrees/device-detection-python)
 - [51degrees-php](https://github.com/51Degrees/51degrees-php/tree/main/device-detection)
